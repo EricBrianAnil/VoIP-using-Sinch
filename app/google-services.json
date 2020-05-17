@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835792411314",
+    "firebase_url": "https://callerapp-a9471.firebaseio.com",
+    "project_id": "callerapp-a9471",
+    "storage_bucket": "callerapp-a9471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835792411314:android:97571242a61b64ccfc47ab",
+        "android_client_info": {
+          "package_name": "com.example.trycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835792411314-ahc18dilcgtu28ca1ov8gl7dp9ovrl4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3M5OQzLnXqYqKUEUvuYIOmBt9xE2OJC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835792411314-ahc18dilcgtu28ca1ov8gl7dp9ovrl4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
